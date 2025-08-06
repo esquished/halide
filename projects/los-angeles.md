@@ -7,7 +7,7 @@ images:
   - src: /assets/uploads/_DSC0016.jpg
   - src: /assets/uploads/_DSC9662.jpg
   - src: /assets/uploads/_DSC9686.jpg
-  - {}
+  - src: /assets/uploads/_DSC9913.jpg
 date: 2025-08-05T22:27:11.120Z
 ---
 
