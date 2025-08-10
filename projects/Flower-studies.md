@@ -8,6 +8,8 @@ images:
     caption: 'Garden rose '
   - src: /assets/uploads/fleurs/_DSC3803.jpg
     caption: garden rose
+  - src: /assets/uploads/fleurs/_DSC3825.jpg
+    caption: garden rose
 date: 2023-11-10T09:12:06.264Z
 position: 0
 ---
