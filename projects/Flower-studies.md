@@ -2,7 +2,7 @@
 draft: false
 title: les fleurs
 description: ''
-year: 2023
+year: 2025
 images:
   - src: /assets/uploads/fleurs/_DSC3819-2.jpg
     caption: 'Garden rose '
@@ -12,6 +12,8 @@ images:
     caption: garden rose 3
   - src: /assets/uploads/fleurs/_DSC3829.jpg
     caption: water on rose
+  - src: /assets/uploads/fleurs/_DSC3823.jpg
+    caption: detail rose soft
 date: 2023-11-10T09:12:06.264Z
 position: 0
 ---
