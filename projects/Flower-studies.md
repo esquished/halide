@@ -1,7 +1,9 @@
 ---
 draft: false
 title: les fleurs
-description: ''
+description: >
+  what is better than a blooming flower?? and do they serve it at Outback
+  steakhouse?
 year: 2025
 images:
   - src: /assets/uploads/fleurs/_DSC3819-2.jpg
@@ -22,3 +24,4 @@ date: 2023-11-10T09:12:06.264Z
 position: 0
 ---
 
+I enjoy the ethereal bloom. 
