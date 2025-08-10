@@ -9,7 +9,7 @@ images:
   - src: /assets/uploads/fleurs/_DSC3803.jpg
     caption: garden rose
   - src: /assets/uploads/fleurs/_DSC3825.jpg
-    caption: garden rose
+    caption: garden rose 3
   - src: /assets/uploads/fleurs/_DSC3829.jpg
     caption: water on rose
 date: 2023-11-10T09:12:06.264Z
