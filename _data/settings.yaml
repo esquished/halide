@@ -21,11 +21,9 @@ metadata:
   site_icon_png: ''
   site_ga4_id: ''
   seo:
-    site_title: Halide - Jamstack portfolio theme
-    site_description: >-
-      A customizable, minimalist portfolio website designed for photographers
-      and still image creators.
-    no_index: false
+    site_title: Eric Kreienbrink - Photography
+    site_description: ''
+    no_index: true
 theme:
   theme_layout:
     space_scale: 100
