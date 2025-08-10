@@ -293,7 +293,8 @@ img {
 		grid-column: 2 / span 3;
 	}
 
-	[data-orientation=portrait] {
+	[data-orientation=portrait],
+	[data-orientation=square]{
 		grid-column: 2 / span 3;
 	}
 
@@ -317,6 +318,10 @@ img {
 	}
 
 	[data-orientation=portrait] {
+		grid-column: 3 / span 2;
+	}
+
+	[data-orientation=square] {
 		grid-column: 3 / span 2;
 	}
 
