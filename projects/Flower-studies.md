@@ -16,6 +16,8 @@ images:
     caption: detail rose soft
   - src: /assets/uploads/fleurs/_DSC3820.jpg
     caption: could be a vaginer
+  - src: /assets/uploads/fleurs/_DSC3968.jpg
+    caption: yuck
 date: 2023-11-10T09:12:06.264Z
 position: 0
 ---
