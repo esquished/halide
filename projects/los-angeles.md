@@ -1,8 +1,7 @@
 ---
 draft: false
 title: Los Angeles
-description: |
-  Going down to los angeles
+description: ''
 images:
   - src: /assets/uploads/_DSC0016.jpg
   - src: /assets/uploads/_DSC9662.jpg
