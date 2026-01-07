@@ -8,6 +8,7 @@ images:
   - src: /assets/uploads/_DSC9662.jpg
   - src: /assets/uploads/_DSC9778.jpg
   - src: /assets/uploads/_DSC9913.jpg
+  - src: /assets/uploads/_DSC6711.mp4
 date: 2025-08-05T22:27:11.120Z
 ---
 
