@@ -12,8 +12,8 @@ config:
 metadata:
   site_url: 'https://prismatic-arithmetic-cf32cf.netlify.app'
   site_title: Eric Kreienbrink
-  site_subtitle_1: Image Portfolio
-  site_subtitle_2: 'Chicago, IL'
+  site_subtitle_1: Environments
+  site_subtitle_2: United States
   site_description: ''
   site_email: kreienbrinke@gmail.com
   site_social_url: 'https://instagram.com/ekbrink'
