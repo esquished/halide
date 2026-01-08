@@ -4,7 +4,7 @@ title: Utah
 description: ''
 images:
   - src: /assets/uploads/utah/_DSC1493.jpg
-  - src: /assets/uploads/utah/_DSC2173.jpg
+  - src: /assets/uploads/utah/_DSC2174.jpg
   - src: /assets/uploads/utah/_DSC2232.jpg
   - src: /assets/uploads/utah/_DSC3020.jpg
   - src: /assets/uploads/utah/_DSC3048.jpg
