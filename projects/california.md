@@ -10,7 +10,7 @@ images:
   - src: /assets/uploads/california/_DSC0607.jpg
   - src: /assets/uploads/california/_DSC9398.jpg
   - src: /assets/uploads/california/_DSC0310.jpg
-  - src: /assets/uploads/california/_DSC9398.jpg
+  - src: /assets/uploads/california/_DSC9937.jpg
 date: 2026-01-08T06:25:56.418Z
 ---
 
