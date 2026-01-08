@@ -4,11 +4,11 @@ title: New Mexico
 description: ''
 images:
   - src: /assets/uploads/NM/_DSC1789.jpg
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
+  - src: /assets/uploads/NM/_DSC1371.jpg
+  - src: /assets/uploads/NM/_DSC1531.jpg
+  - src: /assets/uploads/NM/_DSC1380.jpg
+  - src: /assets/uploads/NM/_DSC1589.jpg
+  - src: /assets/uploads/NM/_DSC1653.jpg
 date: 2026-01-08T23:22:57.604Z
 ---
 
