@@ -12,6 +12,9 @@ images:
   - src: /assets/uploads/utah/_DSC3102.jpg
   - src: /assets/uploads/utah/_DSC0636.jpg
   - src: /assets/uploads/utah/_DSC0745.jpg
+  - src: /assets/uploads/utah/_DSC1660.jpg
+  - src: /assets/uploads/utah/_DSC2218.jpg
+  - src: /assets/uploads/utah/_DSC1868.jpg
 date: 2026-01-08T02:42:27.805Z
 ---
 
