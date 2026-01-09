@@ -1,7 +1,8 @@
 ---
 draft: false
 title: New Mexico
-description: ''
+description: |
+  1. Santa Fe, March 2025
 images:
   - src: /assets/uploads/NM/_DSC1789.jpg
   - src: /assets/uploads/NM/_DSC3425/jpg
