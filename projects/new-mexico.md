@@ -14,7 +14,7 @@ images:
   - src: /assets/uploads/NM/_DSC3425/jpg
   - src: /assets/uploads/NM/DSC_8587.jpg
   - src: /assets/uploads/NM/DSC_8293.jpg
-  - src: /assets/uploads/NM/DSC_8587.jpg
+  - src: /assets/uploads/NM/DSC_8165.jpg
   - src: /assets/uploads/NM/DSC_8771.jpg
 date: 2026-01-08T23:22:57.604Z
 ---
