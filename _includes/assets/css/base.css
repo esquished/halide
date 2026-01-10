@@ -252,6 +252,7 @@ img {
 	.grid__item--breakout {
 		margin-left: unset;
 		margin-right: unset;
+		margin-bottom: unset;
 	}
 
 }
