@@ -178,7 +178,7 @@ a[href].link-nostyle {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-size: inherit;
+	font-size: revert;
 	font-weight: var(--font-weight);
 	margin-bottom: var(--space);
 }
