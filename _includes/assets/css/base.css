@@ -178,8 +178,9 @@ a[href].link-nostyle {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-size: calc(var(--font-size-base) * var(--font-scale) / 100);
+	font-size: inherit;
 	font-weight: var(--font-weight);
+	margin-bottom: var(--space);
 }
 
 p {
